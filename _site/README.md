@@ -1,2 +1,0 @@
-# chetanvaity.github.io
-Blog
