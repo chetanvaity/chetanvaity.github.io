@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Chetan Vaity - Programming and Ops Notes
+title: Ramblings in Programming and Ops
 description: > # this means to ignore newlines until "baseurl:"
-  This is meant to be a notebook of sorts - just notes and points which
-  I would like to remember. Generally includes stuff about Programming and
-  Ops and general Computer stuff.
+  This is meant to be a scrapbook of sorts - just notes and points which
+  I would like to remember. Includes stuff about Programming and
+  Ops and general "Computer stuff".
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chetanvaity.github.io" # the base hostname & protocol for your site
 twitter_username: chetanvaity
